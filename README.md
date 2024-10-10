@@ -15,4 +15,4 @@ Este repositorio contiene una colección de ejercicios prácticos para aprender 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [se quitó una URL no válida]
+   git clone https://github.com/rbjrichy/tutorialHtmlCssJs.git
